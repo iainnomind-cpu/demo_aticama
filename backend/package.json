@@ -1,0 +1,13 @@
+﻿
+{
+  "name": "aticama-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "@supabase/supabase-js": "^2.49.0",
+    "dotenv": "^16.0.0",
+    "nodemailer": "^6.9.0"
+  }
+}
